@@ -31,5 +31,5 @@ This project is licensed under the MIT License — see the [LICENSE.md](LICENSE)
 ## 🙌 Acknowledgements
 
 Built as a fun beginner project to learn DOM manipulation and JavaScript logic.
-
+Here is the link to preview this project on your browsers: https://adeeba383.github.io/Calculator/
 
